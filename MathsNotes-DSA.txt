@@ -1,0 +1,2 @@
+# Sieve Of EratoSthenes: (Sieve means Purifier)
+> Sieve of Eratosthenes is the ancient algorithm to find prime numbers up to a given number.
